@@ -1,1 +1,1 @@
-[# mysol](https://www.mysol.pro/)
+https://www.mysol.pro
